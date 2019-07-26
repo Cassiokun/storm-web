@@ -1,0 +1,26 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cassiokun/storm-web.git"
+  },
+  "keywords": [
+    "Produtos",
+    "gerenciador",
+    "de",
+    "produtos",
+    "storm"
+  ],
+  "author": "Cassio Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cassiokun/storm-web/issues"
+  },
+  "homepage": "https://github.com/Cassiokun/storm-web#readme"
+}
